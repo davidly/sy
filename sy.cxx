@@ -122,8 +122,8 @@ void Usage()
     printf( "usage:  sy [X]\n" );
     printf( "  Use sy.exe before unplugging an external drive\n" );
     printf( "  arguments:  [X] -- drive letter to flush, lock, flush (again), then dismount.\n" );
-    printf( "  examples:    sy r\n" );
-    printf( "               sy f:\n" );
+    printf( "  examples:   sy r\n" );
+    printf( "              sy f:\n" );
 
     exit( EXIT_FAILURE );
 } //Usage
