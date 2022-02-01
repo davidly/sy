@@ -12,5 +12,5 @@ usage:  sy [X]
 
     Use sy.exe before unplugging an external drive
     arguments:  [X] -- drive letter to flush, lock, flush (again), then dismount.
-    examples:    sy r
-                 sy f:
+    examples:   sy r
+                sy f:
